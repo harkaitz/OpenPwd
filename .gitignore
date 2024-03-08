@@ -1,0 +1,12 @@
+
+openpwd.bin
+## -- BLOCK:c --
+*.o
+*.a
+*.so
+*.so.*
+TAGS
+FLYCHECK
+## -- BLOCK:c --
+## -- BLOCK:man --
+## -- BLOCK:man --
